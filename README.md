@@ -1,8 +1,8 @@
 # Formulario de Cadastramento.
 
-## Este formulario é uma aplicação web que pode ser usada paara elaizar casstros de usuarios
+## Esta aplicação web permite o cadastro de usuários através de um formulário
 
-> Este projeto visa oferecer uma tela de visualização intuitiva e de facil interação com o usuario. 
+> Este projeto visa oferecer uma interface de visualização intuitiva e de fácil interação para o usuário.
 
 
 ### Especificações principais
