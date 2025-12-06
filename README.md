@@ -1,5 +1,5 @@
 
-# Formulário de Cadastramento de Usuaria 2025
+# Formulário de Cadastramento de Usuario 2025
 
 Este projeto consiste em uma aplicação web que permite o cadastro de usuários através de um formulário interativo e intuitivo. O objetivo principal é proporcionar uma experiência de usuário agradável e eficiente durante o processo de cadastramento.
 
