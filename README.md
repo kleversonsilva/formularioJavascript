@@ -30,18 +30,13 @@ Este projeto visa oferecer uma interface de visualização intuitiva e de fácil
     *   **Endereço:** Validação de campos como CEP, rua, número, complemento, bairro, cidade e estado. (Considerar a possibilidade de usar uma API de CEP para facilitar o preenchimento e validação).
     *   **Dados para Contato:** Validação de campos como telefone e celular (ex: formato numérico).
 
-## Como Executar o Projeto (Instruções)
+## Visualização do Projeto 
 
-1.  Clone o repositório:
-
-    ```bash
-    git clone [URL inválido removido]
-    ```
-
-2.  Abra o arquivo `index.html` (ou o arquivo principal do seu projeto) no seu navegador web.
+<img width="452" height="629" alt="image" src="https://github.com/user-attachments/assets/216422eb-2266-415f-b6b5-f75e525dd9bd" />
 
 
-## Contato
 
-[kleverson2278@gmailcom]
+
+
+
 
