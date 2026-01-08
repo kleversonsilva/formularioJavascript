@@ -34,6 +34,9 @@ Este projeto visa oferecer uma interface de visualização intuitiva e de fácil
 
 <img width="452" height="629" alt="image" src="https://github.com/user-attachments/assets/216422eb-2266-415f-b6b5-f75e525dd9bd" />
 
+![cap4](https://github.com/user-attachments/assets/de36a487-8691-4b99-8230-7371b3d8bea0)
+
+
 
 
 
